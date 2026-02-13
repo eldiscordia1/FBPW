@@ -1,4 +1,4 @@
-FlashPrank is a highly intrusive visual prankware designed to overwhelm the screen with intense flashing lights, rapid color cycling, and persistent fullscreen effects.
+FreeBobux is a highly intrusive visual prankware designed to overwhelm the screen with intense flashing lights, rapid color cycling, and persistent fullscreen effects.
 
 Once executed, the program takes over the display and continuously renders high-intensity visual stimuli. Under normal circumstances, the effect will automatically stop after 30 years of continuous runtime.
 
