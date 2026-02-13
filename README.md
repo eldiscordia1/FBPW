@@ -6,7 +6,7 @@ Users may terminate the prank earlier by restarting the system, logging out, or 
 
 This project is intended for educational, experimental, and entertainment purposes, showcasing persistent UI behavior and extreme visual stress testing.
 
-⚠️ Epilepsy & Sensory Warning
+** ⚠️ Epilepsy & Sensory Warning **
 
 This software contains rapid flashing lights, strobe effects, high-contrast imagery, and aggressive motion that may trigger seizures or severe discomfort.
 
@@ -22,7 +22,7 @@ Are prone to sensory overload or panic responses
 
 Use extreme caution.
 
-❗ Disclaimer
+**❗ Disclaimer **
 
 By downloading or running this software, you acknowledge and agree to the following:
 
